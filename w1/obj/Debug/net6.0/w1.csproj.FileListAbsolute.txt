@@ -1,0 +1,15 @@
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\bin\Debug\net6.0\w1.exe
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\bin\Debug\net6.0\w1.deps.json
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\bin\Debug\net6.0\w1.runtimeconfig.json
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\bin\Debug\net6.0\w1.dll
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\bin\Debug\net6.0\w1.pdb
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\obj\Debug\net6.0\w1.csproj.AssemblyReference.cache
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\obj\Debug\net6.0\w1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\obj\Debug\net6.0\w1.AssemblyInfoInputs.cache
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\obj\Debug\net6.0\w1.AssemblyInfo.cs
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\obj\Debug\net6.0\w1.csproj.CoreCompileInputs.cache
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\obj\Debug\net6.0\w1.dll
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\obj\Debug\net6.0\refint\w1.dll
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\obj\Debug\net6.0\w1.pdb
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\obj\Debug\net6.0\w1.genruntimeconfig.cache
+D:\Destop\KmuttWork\code\QuickkALl\16.09.65\w1\obj\Debug\net6.0\ref\w1.dll
